@@ -1,2 +1,8 @@
 
 /* Your CSS Code here. */
+.thead{
+		background-color:red;
+}
+.tbody{
+	background-color:#d96c6c;
+}
